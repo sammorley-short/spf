@@ -8,7 +8,7 @@ Stabilizer Pathfinding (SPF) is a general technique for achieving maximally loss
 Specifically, SPF finds sequences of single-qubit measurement patterns that teleportation some input qubit to some other output qubit on a stabilizer state.
 Because any qubit not included in such a measurement pattern can be freely discarded without affecting teleportation, maximal loss tolerance is thus achieved by finding measurement patterns with minimum weight.
 
-For further details on SPF and the degree of loss-tolerant teleportation it allows, see the arXiv pre-print [Loss-tolerant teleportation on large stabilizer states]().
+For further details on SPF and the degree of loss-tolerant teleportation it allows, see the arXiv pre-print [Loss-tolerant teleportation on large stabilizer states](https://arxiv.org/abs/1807.08729).
 
 This repository is provided both in support of the above work and as a tool for use in near-future experimental implementations of loss-tolerant teleportation. All code within this repository is free to use and released without warranty under the GNU General Public License v3.0.
 
