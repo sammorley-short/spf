@@ -2,6 +2,8 @@
 
 *by Sam Morley-Short*
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2582618.svg)](https://doi.org/10.5281/zenodo.2582618)
+
 ---
 
 Stabilizer Pathfinding (SPF) is a general technique for achieving maximally loss-tolerant teleportation on quantum stabilizer states.
